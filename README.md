@@ -3,6 +3,7 @@ WINDOWS
 - En la parte superior donde está la ubicación del proyecto, escribir CMD
 - En cmd, escribir 
   >py -3 -m venv .venv
+  >
   >.venv\Scripts\actívate
 
 - Apenas active, escribir: 
